@@ -1,0 +1,8 @@
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\bin\Debug\MailMerge.exe.config
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\bin\Debug\MailMerge.exe
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\bin\Debug\MailMerge.pdb
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\obj\Debug\MailMerge.csprojResolveAssemblyReference.cache
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\obj\Debug\MailMerge.csproj.ResolveComReference.cache
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\obj\Debug\MailMerge.csproj.CoreCompileInputs.cache
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\obj\Debug\MailMerge.exe
+C:\Users\marwan.butrus\Source\Repos\MailMerge\MailMerge\obj\Debug\MailMerge.pdb
